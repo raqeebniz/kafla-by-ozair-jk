@@ -3,6 +3,8 @@ Notes from kafla
 
 # 🧑‍💻 Freelancing 101 by Haroon Khalil
 
+# What is Freelancing
+
 Freelancing means working for yourself, not for a company. To grow and succeed, you need more than just skills. These 10 points will help you stay focused, work better, and build a strong freelancing career.
 
 ---
