@@ -1,7 +1,7 @@
 # kafla-by-ozair-jk
 Notes from kafla
 
-# 🧑‍💻 Freelancing Basics in Easy English
+# 🧑‍💻 Freelancing 101 by Haroon Khalil
 
 Freelancing means working for yourself, not for a company. To grow and succeed, you need more than just skills. These 10 points will help you stay focused, work better, and build a strong freelancing career.
 
@@ -85,6 +85,56 @@ You control how fast you grow by how much time and effort you give.
 Freelancing gives more freedom than regular jobs to shape your future.
 
 ## 8. Expanded Network and Collaborations  
+
+---
+
+
+# ⚖️ Freelancing vs. Traditional Employment
+
+This note compares **freelancing** and **traditional jobs** on 10 important points. Each point shows how both paths are different so you can decide what suits you best.
+
+---
+
+## 1. Control & Independence  
+**Freelancing:** Full control over your work, hours, and clients.  
+**Traditional Job:** Limited control—follow employer’s rules and fixed schedule.
+
+## 2. Income Stability  
+**Freelancing:** Income can go up and down each month.  
+**Traditional Job:** Fixed monthly salary gives stable income.
+
+## 3. Flexibility  
+**Freelancing:** Work anytime, from anywhere, with your own routine.  
+**Traditional Job:** Set office hours, usually 9–5, and fixed days.
+
+## 4. Growth Opportunities  
+**Freelancing:** Grow faster if you work smart and get more clients.  
+**Traditional Job:** Promotions and growth depend on company structure and time.
+
+## 5. Benefits & Perks  
+**Freelancing:** No free benefits; you arrange your own insurance, etc.  
+**Traditional Job:** Includes health insurance, paid leaves, and other perks.
+
+## 6. Workload & Multitasking  
+**Freelancing:** Handle many tasks—client talks, projects, payments, etc.  
+**Traditional Job:** Focus on your job role; other departments help.
+
+## 7. Job Security  
+**Freelancing:** No guaranteed work—you must find clients regularly.  
+**Traditional Job:** More secure with long-term contracts and protections.
+
+## 8. Client vs. Employer Relationship  
+**Freelancing:** You work *with* clients, often on short projects.  
+**Traditional Job:** You work *for* your employer, long-term and under supervision.
+
+## 9. Work-Life Balance  
+**Freelancing:** More control, but can be hard to separate work from life.  
+**Traditional Job:** Fixed hours help balance, but less personal time flexibility.
+
+## 10. Career Development  
+**Freelancing:** You build your career through self-learning and real projects.  
+**Traditional Job:** Trainings, mentorship, and company help career growth.
+
 You meet many people by working with different clients.  
 This builds your network and brings more job chances.
 
