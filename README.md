@@ -143,7 +143,7 @@ This builds your network and brings more job chances.
 ---
 
 
-## 📌 Types of Freelancing
+# 📌 Types of Freelancing
 
 Freelancing offers a wide range of work types across multiple industries. Below are some of the most common and in-demand types:
 
