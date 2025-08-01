@@ -52,7 +52,7 @@ A healthy balance helps you stay happy and do better work.
 ---
 
 
-# 🌟 Benefits of Freelancing (Easy English)
+# 🌟 Benefits of Freelancing 
 
 Freelancing gives you more control over your work and lifestyle. Here are some main benefits explained simply and clearly:
 
